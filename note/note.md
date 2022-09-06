@@ -9,7 +9,16 @@
 ```
 &euro; 
 ```
-###
+## SEÇÃO - 5
+### Elemento head
+- A tag HEAD onde fica a parte pensante da página.
+- no HEAD ficam os metadados. Metadados são informações sobre a página e o conteúdo publicado.
+- Elementos do head
+    - Title; 
+    - Base;
+    - Link;
+    - Meta;
+    - Style.
 
 
 Curso II - CSS3 Fundamentos
