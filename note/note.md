@@ -19,6 +19,9 @@
     - Link;
     - Meta;
     - Style.
-
+## SEÇÃO - 6    
+### TAG
+- tag ```<hgroup>``` serve para reunir as tag ```<h*>```;
+- tag ```<br>``` "Break Row",  pula uma linha;
 
 Curso II - CSS3 Fundamentos
